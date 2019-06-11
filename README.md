@@ -13,7 +13,7 @@ git add REDEME.md // .
 
 git cmmit -m "commit"
 
-git rempte add prigin http://... //项目git路径
+git remote add origion https://github.com/wendyGao888/VUE //项目git路径
 
 git push -u origin master
 
